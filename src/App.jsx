@@ -21,7 +21,7 @@ import { FaXTwitter } from 'react-icons/fa6'
 import './App.css'
 
 const contact = {
-  whatsappNumber: '213XXXXXXXXX',
+  whatsappNumber: '213541935019',
   email: 'sofianemekkibelhia@gmail.com',
 }
 
