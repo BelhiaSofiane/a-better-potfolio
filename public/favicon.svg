@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Sofiane Belhia">
+  <rect width="64" height="64" rx="18" fill="#030704"/>
+  <path d="M14 50V14h36v36H14Z" fill="#07100b" stroke="#9df2b0" stroke-width="2"/>
+  <path d="M22 42V22h6l4 8 4-8h6v20h-6V31l-4 7h-.4l-3.8-7v11H22Z" fill="#9df2b0"/>
+  <path d="M22 22h20" stroke="#f4fff7" stroke-width="3" stroke-linecap="square"/>
+</svg>
