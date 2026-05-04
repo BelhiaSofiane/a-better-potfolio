@@ -73,6 +73,10 @@ main {
   border-radius: 999px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .nav-links a,
 .nav-cta {
   border-radius: 999px;
