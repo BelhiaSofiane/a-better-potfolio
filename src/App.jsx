@@ -250,7 +250,6 @@ function App() {
                 React, JavaScript, modern UI, performance, and conversion flow thinking.
               </p>
             </div>
-            <img className="system-mark" src={heroImg} alt="" aria-hidden="true" />
           </aside>
         </div>
       </section>
